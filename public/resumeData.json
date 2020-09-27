@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Sheliza Wanjiru",
+    "occupation": "Information Technology student at AkiraChix",
+    "description": "A software developer,dance enthusiast and lover of all things music.",
+    "image": "photo.jpg",
+    "bio": "My name is Sheliza Wanjiru,currently a student at AkiraChix pursuing a Diploma in Information Technology.I value building products that solve problems experienced in real life.My keen interest lies in Front-End development.",
+    "contactmessage": "Hey there,drop me a line!I'm Open to work and building connections",
+    "email": "sheelyzahwanjiru@gmail.com",
+    "phone": "+254714529770",
+    "address": {
+      "street": "SavelBerg Retreat Center,Muringa road",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "zip": "0100 000"
+    },
+     
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sheelizah.wanjiru.7/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sheliza-wanjiru-2a712b1a7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/wanjirushee",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "AkiraChix",
+        "degree": "Diploma in Information Technology",
+        "graduated": "December 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Savannah Informatics",
+        "title": "Software intern",
+        "years": "September 14th - present",
+        "description": "Designing and building the companies website."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Python ",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "50%"
+      },
+      {
+        "name": "Django ",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Blog",
+        "category": "My blog( ReactJS, NodeJS)",
+        "image": "blog2.png",
+        "url": "https://mystifying-volhard-af5060.netlify.app/"
+      },
+      {
+        "title": "Website",
+        "category": "Website (HTML/CSS,NodejS)",
+        "image": "website.png",
+        "url": "https://eager-hypatia-1c04e6.netlify.app/"
+      },
+      {
+        "title": "Calculator",
+        "category": "A simple functional calculator",
+        "image": "calculator.png",
+        "url": "https://cocky-meitner-1f0321.netlify.app/"
+      },
+      {
+        "title": "Website",
+        "category": "website",
+        "image": "website2.png",
+        "url": "https://reverent-ptolemy-e7ea24.netlify.app/"
+      },
+      {
+        "title":"mockup website",
+        "category": "mokeup website",
+        "image": "mockup.png",
+        "url": "https://modest-jones-05e8c0.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have worked with sheliza for several months now and I must say that she is a focused and very intentional in all the work she does.She loves what she does and she is always willing to learn new staff everyday.",
+        "user": "Marie Githinji,Executive Director:AkiraChix"
+      },
+      {
+        "text": "Sheliza works deligently and will always strive to meet deadlines.She is very detail oriented which gives her an upper hand as a developer since she always gets the idea right.She is destined to florish in her career in the years to come.",
+        "user": "Purity Maina,Software Engineer:BRCK"
+      }
+    ]
+  }
+}
